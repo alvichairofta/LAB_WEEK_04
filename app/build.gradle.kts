@@ -47,5 +47,6 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
     implementation("androidx.navigation:navigation-fragment-ktx:2.8.0")
     implementation("androidx.navigation:navigation-ui-ktx:2.8.0")
+    implementation("androidx.viewpager2:viewpager2:1.0.0")
 
 }
